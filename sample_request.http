@@ -1,0 +1,8 @@
+###
+GET http://localhost:3001
+content-type: application/json
+
+# {
+   
+#     "emailId": "vivek.joshi2@sjsu.edu"
+# }
